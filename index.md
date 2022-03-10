@@ -5,10 +5,6 @@
     <a href="https://steamcommunity.com/id/jeancx/"><img src="https://img.shields.io/badge/-jeancx-333333?style=flat-square&logo=steam"/></a>
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jeancx&label=Douglas's%20Profile%20Views&color=135429&style=flat"/>
-</p>
-
 ## About Me
 
 -   🎮 Passionate about games
