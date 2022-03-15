@@ -39,16 +39,12 @@
 ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-</br>
-
 ## Technologies I'm interested to learn more
 
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=42bff5)
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-
-</br>
 
 ## GitHub Analytics
 
