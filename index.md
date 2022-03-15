@@ -21,7 +21,7 @@
     <a href="https://dev.to/jeancx" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeancx" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/jeancx" target="blank">
+    <a href="https://twitter.com/jeancf84" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeancx" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/jean-carlos-farias-85591724/" target="blank">
