@@ -209,10 +209,15 @@
 <h3 align="left">Support:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/jeancf">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeancf" /></a>
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeancf" />
+    </a>
 </p>
-
+<br/>
+<br/>
+<br/>
 <h3 align="left">Statistics:</h3>
+<br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancx&show_icons=true&locale=en&layout=compact" alt="jeancx" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancx&show_icons=true&locale=en" alt="jeancx" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeancx&" alt="jeancx" /></p>
