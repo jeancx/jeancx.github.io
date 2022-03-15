@@ -211,7 +211,6 @@
     <a href="https://www.buymeacoffee.com/jeancf">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeancf" /></a>
 </p>
-<br />
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancx&show_icons=true&locale=en&layout=compact" alt="jeancx" /></p>
