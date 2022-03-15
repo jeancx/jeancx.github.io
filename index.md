@@ -1,9 +1,7 @@
 # Hi there 👋 I am Jean Carlos Farias
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/jeancx"><img src="https://img.shields.io/badge/-Jean%20Carlos%20Farias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://steamcommunity.com/id/jeancx/"><img src="https://img.shields.io/badge/-jeancx-333333?style=flat-square&logo=steam"/></a>
-</p>
+![jeancx](https://komarev.com/ghpvc/?username=jeancx&label=Profile%20views&color=0e75b6&style=flat)
+[![jeancx](https://github-profile-trophy.vercel.app/?username=jeancx)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 
@@ -12,49 +10,24 @@
 -   🧑‍💻 Software Developer since 2005, Back-End most time
 -   💼 Currently working at <a href="https://zhf.com.br">ZHF Mídia Digital</a>
 
+\### Blogs posts
+
+### Connect with me:
+
+[![jeancx](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/jeancx) [![jeancx](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to/jeancx) [![jeancx](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/jeancx) [![jeanc12](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/jeanc12) [![280042](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/280042) [![jeancx](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg)](https://codesandbox.com/jeancx) [![jeanc12](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/jeanc12) [![jeancx](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/jeancx)
+
 ## Tech Knowdledge
 
-### Languages
+### Languages and Tools:
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+[![angular](https://angular.io/assets/images/logos/angular/angular.svg)](https://angular.io)[![angularjs](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg) ](https://angular.io)[![apachecordova](https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg) ](https://cordova.apache.org/)[![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) ](https://aws.amazon.com)[![babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg) ](https://babeljs.io/)[![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) ](https://www.gnu.org/software/bash/)[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) ](https://getbootstrap.com)[![chartjs](https://www.chartjs.org/media/logo-title.svg) ](https://www.chartjs.org)[![circleci](https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg) ](https://circleci.com)[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/)[![cypress](https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg) ](https://www.cypress.io)[![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) ](https://www.docker.com/)[![electron](https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg) ](https://www.electronjs.org)[![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) ](https://expressjs.com)[![firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ](https://firebase.google.com/)[![gcp](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) ](https://cloud.google.com)[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/)[![graphql](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg) ](https://graphql.org)[![gulp](https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg) ](https://gulpjs.com)[![heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ](https://heroku.com)[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/)[![ionic](https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg) ](https://ionicframework.com)[![jasmine](https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg) ](https://jasmine.github.io/)[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ](https://www.java.com)[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg) ](https://www.jenkins.io)[![jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg) ](https://jestjs.io)[![laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg) ](https://laravel.com/)[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ](https://www.linux.org/)[![mariadb](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg) ](https://mariadb.org/)[![materialize](https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg) ](https://materializecss.com/)[![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ](https://www.mongodb.com/)[![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ](https://www.mysql.com/)[![nestjs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg) ](https://nestjs.com/)[![nextjs](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) ](https://nextjs.org/)[![nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg) ](https://www.nginx.com)[![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ](https://nodejs.org)[![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) ](https://www.photoshop.com/en)[![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ](https://www.php.net)[![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) ](https://www.postgresql.org)[![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ](https://postman.com)[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ](https://www.python.org)[![rails](https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg) ](https://rubyonrails.org)[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ](https://reactjs.org/)[![reactnative](https://reactnative.dev/img/header_logo.svg) ](https://reactnative.dev/)[![redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) ](https://redis.io)[![ruby](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg) ](https://www.ruby-lang.org/en/)[![sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) ](https://sass-lang.com)[![selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg) ](https://www.selenium.dev)[![spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) ](https://spring.io/)[![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg) ](https://www.sqlite.org/)[![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ](https://tailwindcss.com/)[![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ](https://www.typescriptlang.org/)[![webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg)](https://webpack.js.org)
 
-### Libraries and Frameworks
+### Support:
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
-### Infrastructure and DevOps
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
-
-### Enviroment, IDEs and Tools
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-
-## Technologies I'm interested to learn more
-
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=42bff5)
-![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-
-## GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/jeancx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeancx&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeancx&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeancx&theme=merko"/>
-</a>
-</p>
+[![jeancf](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/jeancf)
+![jeancx](https://github-readme-stats.vercel.app/api/top-langs?username=jeancx&show_icons=true&locale=en&layout=compact)
+![jeancx](https://github-readme-stats.vercel.app/api?username=jeancx&show_icons=true&locale=en)
+![jeancx](https://github-readme-streak-stats.herokuapp.com/?user=jeancx&)
 
 <!--
 **jeancx/jeancx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
