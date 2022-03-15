@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jean Carlos Farias</h1>
 <h3 align="center">A passionate FullStack developer from Brazil</h3>
 
-## About Me
+<h3 align="left">About Me</h3>
 
 -   🎮 Passionate about games
 -   🎓 Computer Science Bachelor - UNIVALI
 -   🧑‍💻 Software Developer since 2005, Back-End most time
 -   💼 Currently working at <a href="https://zhf.com.br">ZHF Mídia Digital</a>
 
-### Blogs posts
+<h3 align="left">Blogs posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -211,16 +211,9 @@
     <a href="https://www.buymeacoffee.com/jeancf">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jeancf" /></a>
 </p>
-<br /><br />
+<br />
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancx&show_icons=true&locale=en&layout=compact" alt="jeancx" />
-</p>
-
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancx&show_icons=true&locale=en" alt="jeancx" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeancx&" alt="jeancx" />
-</p>
+<h3 align="left">Statistics:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancx&show_icons=true&locale=en&layout=compact" alt="jeancx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancx&show_icons=true&locale=en" alt="jeancx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeancx&" alt="jeancx" /></p>
