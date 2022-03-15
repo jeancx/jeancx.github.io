@@ -214,9 +214,7 @@
 </p>
 <br/>
 <br/>
-<br/>
 <h3 align="left">Statistics:</h3>
-<br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancx&show_icons=true&locale=en&layout=compact" alt="jeancx" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancx&show_icons=true&locale=en" alt="jeancx" /></p>
