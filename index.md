@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/jean-carlos-farias-85591724/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanc12" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/280042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="280042" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jeancx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jeancx" height="30" width="40" /></a>
-<a href="https://instagram.com/jeanc12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeanc12" height="30" width="40" /></a>
+<a href="https://instagram.com/jean_cf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeanc12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jeancx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeancx" height="30" width="40" /></a>
 </p>
 
